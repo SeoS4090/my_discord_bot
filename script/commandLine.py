@@ -1,1 +1,0 @@
-COMMAND_HELLO = "!안녕"
